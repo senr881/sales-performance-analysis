@@ -1,2 +1,2 @@
 # sales-performance-analysis
-An interactive Power BI dashboard that analyzes sales performance across product categories, regions, and quantities—highlighting key metrics like total profit, top products, and regional trends for data-driven decision-making.
+![Screenshot 2025-04-10 103755](https://github.com/user-attachments/assets/10b18326-2caf-4475-98cd-061bde01d7f4)
